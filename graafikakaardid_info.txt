@@ -1,0 +1,3 @@
+﻿Allikas: http://gpuboss.com/Andmestikus on 100 lauaarvuti graafikakaarti.Atribuudid:1) GPU name; tekst; mudeli nimetus2) GPU brand; tekst; mudeli tootja (klass)3) Clock speed (MHz); täisarv4) Turbo clock speed (MHz); täisarv5) Memory clock speed (MHz); täisarv6) Effective memory clock speed (MHz); täisarv7) Memory bus (bit) ; täisarv8) Memory (MB) ; täisarv9) Memory type; tekst10) Shading units; täisarv11) Texture mapping units; täisarv12) Render output processors; täisarv13) Benchmark (G3D Mark); täisarvKlass (GPU brand):
+1) Nvidia
+2) AMD
